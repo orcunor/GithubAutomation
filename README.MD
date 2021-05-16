@@ -1,13 +1,13 @@
-# Github Otomasyon(GithubAutomation)
+# GithubAutomation
 
-Github hesabınızın ssini alıp kaydetme, takipçilerinizi alma, konsol üzerinden herhangi bir kullanıcının bilgilerini görme, yeni bir repository oluşturma, var olan bir repositoryi görüntülemenizi sağlayan bir otomasyon.
+An automation that allows you to capture and save your Github account, get your followers, see any user's information on the console, create a new repository, view an existing repository.
 
-# Gereklilikler(Requirements)
+# Requirements
 
-webdriver-chromedriver.exe  chrome'un sahip olduğunuz sürümünün driver'ını indirip klasör içine atmanız gerekiyor. Klasörün içinde chromedriver.exe mevcut aynı sürümü kullanıp kullanmadığınızı kontrol edin.(83.0.4103.97)
+webdriver-chromedriver.exe You need to download the driver of the version you have of chrome and put it in the folder. Check if you are using the same version of chromedriver.exe available in the folder. (83.0.4103.97)
 -time
 -selenium
 -requests
 -Keys
 
-github api üzerinden kendi hesabınıza ait token almanız gerekli.
+You need to buy a token of your own account via the github api.
