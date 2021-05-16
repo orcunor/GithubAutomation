@@ -1,6 +1,6 @@
 # GithubAutomation
 
-An automation that allows you to capture and save your Github account, get your followers, see any user's information on the console, create a new repository, view an existing repository.
+An automation that allows you to capture and save your Github account screenshot, get your followers, see any user's information on the console, create a new repository, view an existing repository.
 
 # Requirements
 
